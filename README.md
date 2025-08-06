@@ -3,17 +3,10 @@ This repository contains my practice work with HTML tags as I learn and explore 
 
 ✅ Topics Covered:
 Basic structure of an HTML document (<!DOCTYPE html>, <html>, <head>, <body>)
-
 Text formatting tags (<h1>–<h6>, <p>, <strong>, <em>, <br>, <hr>)
-
 Links and images (<a>, <img>)
-
 Lists (<ul>, <ol>, <li>)
-
 Tables (<table>, <tr>, <td>, <th>)
-
 Forms (<form>, <input>, <textarea>, <button>, <label>, <select>)
-
 Semantic elements (<header>, <footer>, <nav>, <article>, <section>)
-
 Media tags (<audio>, <video>, <iframe>)
